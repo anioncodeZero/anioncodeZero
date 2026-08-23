@@ -22,11 +22,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="35" height="35" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="30"/> About
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> About
 
 I'm **Andika Harsel**, a developer focused on backend development, web technologies, Linux, and cybersecurity. 
 
@@ -34,7 +30,7 @@ I like building practical software, exploring systems, and learning how things w
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="30" height="30"> Stack
 
 <div align="center">
 
@@ -44,7 +40,7 @@ I like building practical software, exploring systems, and learning how things w
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Selected Work
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Selected Work
 
 <table>
 <tr>
@@ -94,21 +90,20 @@ Small tools, experiments, and projects created while learning.
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Metrics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="30" height="30"> GitHub Metrics
 
 <div align="center">
+
+<!-- Trophies Animasi Sebagai Pengganti Snake Game -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anioncodeZero&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="anioncodeZero Trophies" />
+</a>
+
+<br><br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=anioncodeZero&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioncodeZero&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-
-<br><br>
-
-<!-- GITHUB SNAKE ANIMATION (Estetik & Berbau Programming) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anioncodeZero/anioncodeZero/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anioncodeZero/anioncodeZero/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
 
 <br><br>
 
@@ -119,7 +114,7 @@ Small tools, experiments, and projects created while learning.
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="25" height="25" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="35" height="35">
 </div>
 
 <div align="center">
