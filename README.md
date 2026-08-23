@@ -7,16 +7,17 @@
 
 <br><br>
 
+<!-- SOCIAL BADGES -->
 <a href="https://github.com/anioncodezero">
-<img src="https://img.shields.io/badge/GitHub-161B22-F5C451?style=flat-square&logo=github&logoColor=F5C451"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22-F5C451?style=flat-square&logo=github&logoColor=F5C451"/>
 </a>
 &nbsp;
 <a href="https://anioncodezero.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-161B22-F5C451?style=flat-square&logo=googlechrome&logoColor=F5C451"/>
+  <img src="https://img.shields.io/badge/Portfolio-161B22-F5C451?style=flat-square&logo=googlechrome&logoColor=F5C451"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/andikaharsel/">
-<img src="https://img.shields.io/badge/Instagram-161B22-F5C451?style=flat-square&logo=instagram&logoColor=F5C451"/>
+  <img src="https://img.shields.io/badge/Instagram-161B22-F5C451?style=flat-square&logo=instagram&logoColor=F5C451"/>
 </a>
 
 </div>
@@ -24,7 +25,6 @@
 <br>
 
 <!-- PROFILE + STATS -->
-
 <table align="center">
 <tr>
 
@@ -61,32 +61,23 @@ I like building practical software, exploring systems, and understanding how thi
 <br>
 
 <!-- MINI STATS -->
-
 <table align="center">
 <tr>
 
 <td align="center" width="25%">
-
-<img src="https://img.shields.io/github/followers/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=followers"/>
-
+  <img src="https://img.shields.io/github/followers/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=followers"/>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://img.shields.io/github/repos/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=repositories"/>
-
+  <img src="https://img.shields.io/github/repos/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=repositories"/>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://img.shields.io/github/stars/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=stars"/>
-
+  <img src="https://img.shields.io/github/stars/anioncodezero?style=flat-square&color=F5C451&labelColor=161B22&label=stars"/>
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://komarev.com/ghpvc/?username=anioncodezero&style=flat-square&color=F5C451&label=views"/>
-
+  <img src="https://komarev.com/ghpvc/?username=anioncodezero&style=flat-square&color=F5C451&label=views"/>
 </td>
 
 </tr>
@@ -95,7 +86,6 @@ I like building practical software, exploring systems, and understanding how thi
 <br>
 
 <!-- STACK + LANGUAGES -->
-
 <table align="center">
 <tr>
 
@@ -129,7 +119,6 @@ I like building practical software, exploring systems, and understanding how thi
 <br>
 
 <!-- PROJECTS -->
-
 <table align="center">
 <tr>
 <td colspan="2" align="center">
@@ -152,7 +141,7 @@ Web security scanner built with Python and Flask.
 <br>
 
 <a href="https://github.com/anioncodezero/webguard-scanner">
-<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -168,7 +157,7 @@ Desktop management system for PlayStation rental businesses.
 <br>
 
 <a href="https://github.com/anioncodezero/rental-ps">
-<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -188,7 +177,7 @@ Personal developer portfolio focused on clean UI and simple interactions.
 <br>
 
 <a href="https://anioncodezero.github.io/">
-<img src="https://img.shields.io/badge/live_site-F5C451-0D1117?style=flat-square&logo=googlechrome&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/live_site-F5C451-0D1117?style=flat-square&logo=googlechrome&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -204,7 +193,7 @@ Small tools, experiments, and projects created while learning.
 <br>
 
 <a href="https://github.com/anioncodezero/experiments">
-<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -215,7 +204,6 @@ Small tools, experiments, and projects created while learning.
 <br>
 
 <!-- CONTRIBUTION GRAPH -->
-
 <div align="center">
 
 <h3>🟡 activity</h3>
@@ -227,7 +215,6 @@ Small tools, experiments, and projects created while learning.
 <br>
 
 <!-- STREAK -->
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=anioncodezero&theme=dark&hide_border=true&background=0D1117&ring=F5C451&fire=F5C451&currStreakLabel=F5C451&sideLabels=8B949E&dates=8B949E" width="70%"/>
@@ -237,7 +224,6 @@ Small tools, experiments, and projects created while learning.
 <br>
 
 <!-- FOOTER -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1500&color=F5C451&center=true&vCenter=true&width=400&lines=code+%3E+coffee+%3E+repeat;always+learning.;always+building." />
