@@ -9,13 +9,13 @@
 <br><br>
 
 <a href="https://github.com/anioncodeZero">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://anioncodezero.github.io/">
-<img src="https://img.shields.io/badge/portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/and_ikaharsel/">
-<img src="https://img.shields.io/badge/instagram-181717?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -24,9 +24,9 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> About
 
-I'm **Andika Harsel**, a developer focused on backend development, web technologies, Linux, and cybersecurity. 
-
-I like building practical software, exploring systems, and learning how things work beneath the surface.
+> **Andika Harsel** | Backend Developer • Web Tech • Linux • Cybersecurity
+> 
+> Building practical software, exploring systems, and uncovering how things work beneath the surface. Always open-minded to new technologies and aesthetic solutions.
 
 <br>
 
@@ -46,7 +46,7 @@ I like building practical software, exploring systems, and learning how things w
 <tr>
 <td width="50%">
 
-### WebGuard Scanner
+### 🛡️ WebGuard Scanner
 
 A web security scanner built with Python and Flask.
 
@@ -56,7 +56,7 @@ A web security scanner built with Python and Flask.
 
 <td width="50%">
 
-### Rental PS
+### 🎮 Rental PS
 
 Desktop management system for PlayStation rental businesses.
 
@@ -68,7 +68,7 @@ Desktop management system for PlayStation rental businesses.
 <tr>
 <td width="50%">
 
-### Portfolio
+### 🌐 Portfolio
 
 Personal developer portfolio focused on clean UI and simple interactions.
 
@@ -78,7 +78,7 @@ Personal developer portfolio focused on clean UI and simple interactions.
 
 <td width="50%">
 
-### More Experiments
+### 🧪 More Experiments
 
 Small tools, experiments, and projects created while learning.
 
@@ -94,6 +94,7 @@ Small tools, experiments, and projects created while learning.
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anioncodeZero&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 <br><br>
 
