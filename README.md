@@ -94,10 +94,6 @@ Small tools, experiments, and projects created while learning.
 
 <div align="center">
 
-<!-- Trophies Animasi Sebagai Pengganti Snake Game -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=anioncode" alt="anioncodeZero Trophies" />
-</a>
 
 
 
