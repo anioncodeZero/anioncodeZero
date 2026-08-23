@@ -95,14 +95,6 @@ Small tools, experiments, and projects created while learning.
 <div align="center">
 
 
-
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anioncodeZero&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioncodeZero&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
