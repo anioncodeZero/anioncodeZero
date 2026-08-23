@@ -1,119 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=anioncode&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=190&section=header&text=anioncode&fontSize=68&fontColor=F5C451&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=backend+developer;linux+enthusiast;building+things+with+code;exploring+cybersecurity" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=F5C451&center=true&vCenter=true&width=650&lines=backend+developer;linux+enthusiast;building+things+with+code;exploring+cybersecurity" />
 
 <br><br>
 
 <a href="https://github.com/anioncodeZero">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/github-161B22-F5C451?style=flat-square&logo=github&logoColor=F5C451" />
 </a>
+&nbsp;
 <a href="https://anioncodezero.github.io/">
-<img src="https://img.shields.io/badge/portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/portfolio-161B22-F5C451?style=flat-square&logo=googlechrome&logoColor=F5C451" />
 </a>
+&nbsp;
 <a href="https://www.instagram.com/and_ikaharsel/">
-<img src="https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-161B22-F5C451?style=flat-square&logo=instagram&logoColor=F5C451" />
 </a>
 
 </div>
 
 <br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> About
-
-> **Andika Harsel** | Backend Developer • Web Tech • Linux • Cybersecurity
-> 
-> Building practical software, exploring systems, and uncovering how things work beneath the surface. Always open-minded to new technologies and aesthetic solutions.
-
-<br>
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="30" height="30"> Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,javascript,html,css,flask,mysql,sqlite,linux,git,docker&perline=7&theme=dark" />
-
-</div>
-
-<br>
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Selected Work
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ WebGuard Scanner
+## 🟡 about
 
-A web security scanner built with Python and Flask.
+I'm **Andika Harsel**, a developer focused on backend development, web technologies, Linux, and cybersecurity.
 
-`Python` `Flask` `SQLite`
-
-</td>
-
-<td width="50%">
-
-### 🎮 Rental PS
-
-Desktop management system for PlayStation rental businesses.
-
-`Java` `Swing` `MySQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio
-
-Personal developer portfolio focused on clean UI and simple interactions.
-
-`HTML` `CSS` `JavaScript`
+I enjoy building practical software, exploring systems, and understanding how things work beneath the surface.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 More Experiments
+## 🟡 currently
 
-Small tools, experiments, and projects created while learning.
-
-`Linux` `Python` `Web`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="30" height="30"> GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anioncodeZero&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="35" height="35">
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=550&lines=code+%3E+coffee+%3E+repeat;always+learning.;always+building." />
-
-<br><br>
-
-<sub>© anioncode</sub>
-
-</div>
+```text
+> building web applications
+> exploring Linux systems
+> learning cybersecurity
+> experimenting with Python
