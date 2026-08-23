@@ -26,12 +26,12 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  👋 I'm Andika Harsel                                      │
+│  👋 I'm Andika Harsel                                       │
 │                                                             │
-│  💻 Interested in backend & web development                │
-│  🐧 Linux user                                             │
-│  🔐 Learning cybersecurity & ethical hacking               │
-│  🛠️ I enjoy building small tools and useful applications  │
+│  💻 Interested in backend & web development                 │
+│  🐧 Linux user                                              │
+│  🔐 Learning cybersecurity & ethical hacking                │
+│  🛠️ I enjoy building small tools and useful applications    │
 │  ☕ Powered by coffee and questionable debugging decisions  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
