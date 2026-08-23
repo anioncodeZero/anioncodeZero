@@ -1,187 +1,349 @@
 <div align="center">
 
-# 👋 Hi, I'm Andika Harsel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0d1117,100:00ff9c&height=220&section=header&text=ANIONCODE&fontSize=70&fontColor=00ff9c&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Linux%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 
-### `Backend Developer` • `Linux Enthusiast` • `Cybersecurity`
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Exploring+Cybersecurity;Learning+Something+New+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=%24+whoami;Andika+Harsel;Backend+Developer;Linux+Enthusiast;Cybersecurity+Explorer;Building+%7C+Breaking+%7C+Learning" />
 
-<p>
-  <a href="https://github.com/anioncodeZero">
-    <img src="https://img.shields.io/github/followers/anioncodeZero?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/anioncodeZero?tab=repositories">
-    <img src="https://img.shields.io/github/stars/anioncodeZero?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars">
-  </a>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anioncodeZero&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Andika Harsel**, a developer interested in building web applications, backend systems, Linux environments, and cybersecurity tools.
+<div align="center">
 
 ```text
-> whoami
-
-Andika Harsel
-├── Backend Development
-├── Web Development
-├── Linux
-├── Cybersecurity
-└── Always Learning
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   █████╗ ███╗   ██╗██╗ ██████╗ ███╗   ██╗ ██████╗          ║
+║  ██╔══██╗████╗  ██║██║██╔═══██╗████╗  ██║██╔════╝          ║
+║  ███████║██╔██╗ ██║██║██║   ██║██╔██╗ ██║██║  ███╗         ║
+║  ██╔══██║██║╚██╗██║██║██║   ██║██║╚██╗██║██║   ██║         ║
+║  ██║  ██║██║ ╚████║██║╚██████╔╝██║ ╚████║╚██████╔╝         ║
+║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝          ║
+║                                                              ║
+║              [ SYSTEM STATUS : ONLINE ]                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I enjoy turning ideas into working software and exploring how systems work behind the scenes.
+</div>
+
+<br>
+
+## `> SYSTEM.IDENTITY`
+
+```bash
+┌──[andika@github]─[~]
+└─$ whoami
+
+Andika Harsel
+
+┌──[andika@github]─[~]
+└─$ cat profile.txt
+
+Role        : Backend Developer
+Environment : Linux
+Interests   : Cybersecurity / Web / Systems
+Mindset     : Build → Break → Learn → Repeat
+Status      : Online
+```
+
+> Building things, breaking things, and figuring out why they broke.
 
 ---
 
-## ⚡ Tech Stack
+## `> TECH_STACK`
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,javascript&theme=dark" />
+
+<br><br>
 
 ### Web & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,flask,mysql,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,flask,mysql,sqlite&theme=dark" />
+
+<br><br>
 
 ### Tools & Environment
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `> CURRENTLY_RUNNING`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Learning+Backend+Architecture;%5B%2B%5D+Exploring+Web+Security;%5B%2B%5D+Improving+Linux+Skills;%5B%2B%5D+Building+Security+Tools;%5B%2B%5D+Learning+React;%5B%2B%5D+Experimenting+with+New+Technologies" />
+
+</div>
+
+---
+
+## `> FEATURED_PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🔐 WebGuard Scanner
 
-Security-focused website scanner built with **Python + Flask**.
+```text
+TYPE
+Web Security Tool
 
-**Features**
+STACK
+Python
+Flask
+SQLite
+BeautifulSoup
 
-* Website crawling
-* Security header analysis
-* Technology detection
-* Port scanning
-* Subdomain discovery
-* Scan history
-* SQLite database
+FEATURES
+→ Website crawling
+→ Security headers
+→ Technology detection
+→ Port scanning
+→ Subdomain discovery
+→ Scan history
+```
 
-**Stack:** `Python` `Flask` `SQLite` `BeautifulSoup`
+</td>
 
----
+<td width="50%">
 
 ### 🎮 Rental PS Management
 
-Desktop management application for PlayStation rental businesses.
+```text
+TYPE
+Desktop Application
 
-**Features**
+STACK
+Java
+Swing
+MySQL
 
-* Customer management
-* PlayStation management
-* Rental transactions
-* User management
-* Database integration
+FEATURES
+→ Customer management
+→ PS management
+→ Transactions
+→ User management
+→ Database integration
+```
 
-**Stack:** `Java` `Swing` `MySQL`
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌐 Personal Portfolio
 
-A personal developer portfolio showcasing projects, skills, and experience.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anioncodeZero&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioncodeZero&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anioncodeZero&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anioncodeZero/anioncodeZero/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
 ```text
-[████████████████████░░] Backend Development
-[██████████████████░░░░] Cybersecurity
-[████████████████░░░░░░] Linux
-[██████████████░░░░░░░░] React
-[████████████░░░░░░░░░░] Mobile Development
+TYPE
+Web Application
+
+STACK
+HTML
+CSS
+JavaScript
+
+FOCUS
+→ Personal branding
+→ Projects
+→ Skills
+→ Developer portfolio
 ```
 
-Currently exploring:
+</td>
 
-* Backend architecture
-* Web security
-* Linux
-* React
-* Mobile development
-* Better software engineering practices
+<td width="50%">
+
+### 🧪 Experimental Lab
+
+```text
+STATUS
+ACTIVE
+
+FOCUS
+→ Linux
+→ Networking
+→ Cybersecurity
+→ Automation
+→ Programming
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📈 Activity
+## `> GITHUB_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&theme=github-compact&hide_border=true" width="95%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anioncodeZero&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioncodeZero&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff9c&text_color=c9d1d9" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `> CONTRIBUTION_STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anioncodeZero&theme=black-ice&hide_border=true&background=050505&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+
+</div>
+
+---
+
+## `> ACTIVITY_MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&bg_color=050505&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anioncodeZero/anioncodeZero/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## `> TERMINAL`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ andika@anioncode:~$                                          │
+│                                                              │
+│ $ ls projects/                                               │
+│                                                              │
+│ webguard-scanner/                                            │
+│ rental-ps/                                                   │
+│ portfolio/                                                   │
+│                                                              │
+│ $ sudo apt install curiosity                                │
+│                                                              │
+│ [████████████████████████████████████] 100%                 │
+│                                                              │
+│ Successfully installed: curiosity                           │
+│                                                              │
+│ $ ./build_future.sh                                          │
+│                                                              │
+│ Initializing...                                              │
+│ ████████████████████████████████████████████████            │
+│                                                              │
+│ SYSTEM READY                                                 │
+│                                                              │
+│ andika@anioncode:~$ _                                       │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> DEVELOPMENT_MODE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=%5B01%5D+WRITE+CODE;%5B02%5D+TEST+CODE;%5B03%5D+BREAK+CODE;%5B04%5D+DEBUG+CODE;%5B05%5D+LEARN+SOMETHING;%5B06%5D+REPEAT" />
+
+</div>
+
+---
+
+## `> SECURITY_INTERESTS`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  🔎 Web Security                                           │
+│  🌐 Networking                                              │
+│  🐧 Linux                                                    │
+│  🛡️ Security Testing                                       │
+│  🧠 System Understanding                                   │
+│  ⚙️ Automation                                               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `> GITHUB_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anioncodeZero&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" />
+
+</div>
+
+---
+
+## `> RANDOM_DEVELOPER_FACT`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=7CFC00&center=true&vCenter=true&width=800&lines=I+like+understanding+how+things+work.;Linux+is+my+playground.;Sometimes+the+bug+is+the+feature.;Coffee+%2B+Code+%3D+Long+Night.;There+is+always+another+thing+to+learn." />
+
+</div>
+
+---
+
+## `> CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/anioncodeZero">
-<img src="https://img.shields.io/badge/GitHub-anioncodeZero-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.instagram.com/and_ikaharsel/">
-<img src="https://img.shields.io/badge/Instagram-and__ikaharsel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-anioncodeZero-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 <a href="https://anioncodezero.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-00ff9c?style=for-the-badge&logo=google-chrome&logoColor=black" />
 </a>
+
+<a href="https://www.instagram.com/and_ikaharsel/">
+<img src="https://img.shields.io/badge/INSTAGRAM-AND__IKAHRSEL-00ff9c?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 CONNECTION ESTABLISHED                  ║
+║                                                          ║
+║        CODE  •  BUILD  •  BREAK  •  LEARN               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -189,8 +351,6 @@ Currently exploring:
 
 <div align="center">
 
-### `Code. Break. Learn. Repeat.`
-
-<img src="https://komarev.com/ghpvc/?username=anioncodeZero&style=flat-square&color=58A6FF" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0d1117,100:050505&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
