@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=anioncode&fontSize=55&fontColor=F5C451&animation=twinkling&fontAlignY=42" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=170&section=header&text=anioncode&fontSize=58&fontColor=F5C451&animation=twinkling&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=backend+developer;linux+%E2%80%A2+cybersecurity;building+things+with+code" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=backend+developer;linux+enthusiast;cybersecurity+explorer;building+things+with+code" />
 
 <br><br>
 
@@ -22,72 +23,226 @@
 
 <br>
 
-<table align="center" width="600">
+<!-- PROFILE + STATS -->
+
+<table align="center">
 <tr>
-<td>
 
-### `about`
+<td width="45%" valign="top">
 
-I'm **Andika Harsel**, a developer focused on backend development, Linux, web technologies, and cybersecurity.
+<h3>🟡 about</h3>
 
-`code` → `break` → `understand` → `rebuild`
+I'm <b>Andika Harsel</b>, a developer focused on backend development, web technologies, Linux, and cybersecurity.
+
+<br><br>
+
+I like building practical software, exploring systems, and understanding how things work beneath the surface.
+
+<br><br>
+
+<code>code</code> →
+<code>break</code> →
+<code>understand</code> →
+<code>rebuild</code>
 
 </td>
+
+<td width="55%" align="center">
+
+<h3>🟡 github</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anioncodeZero&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C451&icon_color=F5C451&text_color=8B949E&ring_color=F5C451&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<table align="center" width="600">
+<!-- MINI STATS -->
+
+<table align="center">
 <tr>
-<td align="center">
 
-### `stack`
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,javascript,flask,mysql,sqlite,linux,git,docker&perline=6&theme=dark"/>
+<img src="https://img.shields.io/github/followers/anioncodeZero?style=flat-square&color=F5C451&labelColor=161B22&label=followers"/>
 
 </td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/github/repos/anioncodeZero?style=flat-square&color=F5C451&labelColor=161B22&label=repositories"/>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/github/stars/anioncodeZero?style=flat-square&color=F5C451&labelColor=161B22&label=stars"/>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://komarev.com/ghpvc/?username=anioncodeZero&style=flat-square&color=F5C451&label=views"/>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<table align="center" width="600">
+<!-- STACK + LANGUAGES -->
+
+<table align="center">
 <tr>
-<td>
 
-### `projects`
+<td width="50%" valign="top">
 
-**◈ WebGuard Scanner**  
-`Python` · `Flask` · `SQLite`
-
-**◈ Rental PS**  
-`Java` · `Swing` · `MySQL`
-
-**◈ Portfolio**  
-`HTML` · `CSS` · `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<br>
+<h3>🟡 technology</h3>
 
 <div align="center">
 
-### `github`
+<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,javascript&perline=6&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&bg_color=0D1117&color=8B949E&line=F5C451&point=F5C451&area=true&hide_border=true&custom_title=" width="600"/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,linux,git,docker&perline=6&theme=dark"/>
+
+</div>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🟡 languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioncodeZero&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C451&text_color=8B949E&langs_count=6" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- PROJECTS -->
+
+<table align="center">
+<tr>
+<td colspan="2" align="center">
+
+<h3>🟡 selected projects</h3>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◈ WebGuard Scanner
+
+Web security scanner built with Python and Flask.
+
+`Python` `Flask` `SQLite`
+
+<br>
+
+<a href="https://github.com/anioncodeZero">
+<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Rental PS
+
+Desktop management system for PlayStation rental businesses.
+
+`Java` `Swing` `MySQL`
+
+<br>
+
+<a href="https://github.com/anioncodeZero">
+<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◈ Portfolio
+
+Personal developer portfolio focused on clean UI and simple interactions.
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://anioncodezero.github.io/">
+<img src="https://img.shields.io/badge/live_site-F5C451-0D1117?style=flat-square&logo=googlechrome&logoColor=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Experiments
+
+Small tools, experiments, and projects created while learning.
+
+`Linux` `Python` `Web`
+
+<br>
+
+<a href="https://github.com/anioncodeZero">
+<img src="https://img.shields.io/badge/explore-F5C451-0D1117?style=flat-square&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTION GRAPH -->
+
+<div align="center">
+
+<h3>🟡 activity</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anioncodeZero&bg_color=0D1117&color=8B949E&line=F5C451&point=FFD866&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 <br>
 
+<!-- STREAK -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anioncodeZero&theme=dark&hide_border=true&background=0D1117&ring=F5C451&fire=F5C451&currStreakLabel=F5C451&sideLabels=8B949E&dates=8B949E" width="70%"/>
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1500&color=F5C451&center=true&vCenter=true&width=400&lines=code+%3E+coffee+%3E+repeat;always+learning.;always+building." />
 
-<br>
+<br><br>
 
 <sub>© anioncode</sub>
 
